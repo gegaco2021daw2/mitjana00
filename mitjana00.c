@@ -22,6 +22,9 @@ int main() {
 		scanf(" %c",&consulta); 
 	}
 	mitjana=suma/numero_repeticions;
+	HEAD
 	printf("La mitjana ha estat trobada amb èxit\n");
+	printf("Operació finalitzada amb èxit\n"); 
+	br0
 	return 0;
 }
