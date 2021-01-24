@@ -1,0 +1,6 @@
+1- Versió 0.1 del programa mitjana00
+2- Data i hora: 201911221223
+3- Autor: dacomo1920daw2
+4- Per compilar el programa, executa:
+	gcc mitjana00.c -o mitjana00
+
